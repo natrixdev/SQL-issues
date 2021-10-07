@@ -1,0 +1,12 @@
+//SQL 
+
+Problem on sql patch note 2.3:
+
+	Sql(s) injections on websites (not allowed):
+		Inert a new object called sql on your linux terminal
+		Collect website IP (v2.3)
+		start your attack (vm)
+If it dosent word dm me on discord !
+
+
+gl hackerss
